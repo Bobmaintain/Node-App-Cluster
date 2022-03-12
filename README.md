@@ -1,7 +1,6 @@
 # Node-App-Cluster
 
 
-Node App Cluster.
 
 Having more servers than the number of cores will not improve the performance of your app. But with app clusters, you can create an independent server for each core (CPU) on the system.
 
